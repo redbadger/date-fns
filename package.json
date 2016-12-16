@@ -3,6 +3,7 @@
   "version": "1.20.1",
   "author": "Sasha Koss <koss@nocorp.me>",
   "license": "MIT",
+  "main": "tmp/npm/index.js",
   "description": "Modern JavaScript date utility library",
   "repository": "https://github.com/date-fns/date-fns",
   "typings": "./typings.d.ts",
